@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rdqvWA/mVQBxFVrGOaOCZ78Bb8WEYluZSFQSqoatzOI=",
+  "Source": "GetOrderDetails",
+  "BasePath": "_content/GetOrderDetails",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

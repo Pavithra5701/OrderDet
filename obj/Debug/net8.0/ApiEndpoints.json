@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "GetOrderDetails.Controllers.OderDetailsController",
+    "Method": "GetLatestOrder",
+    "RelativePath": "api/OderDetails/LatestOrderDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GetOrderDetails.Models.OderDetRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
